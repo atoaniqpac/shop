@@ -99,7 +99,7 @@
             </svg>
             <span class="sr-only">Info</span>
             <div>
-            <span class="font-medium">{{ __('Info alert!') }}</span> {{ __("There are no registered families yet, please register some to view them") }}
+            <span class="font-medium">{{ __('Info alert!') }}</span> Aun no existen productos registrados por favor registre algunas para visualizarlas.
             </div>
         </div>
 
